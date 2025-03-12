@@ -2,6 +2,9 @@
 
 FinReg AI is an AI-powered financial assistant designed to help finance professionals, compliance officers, and policymakers quickly retrieve and understand RBI circulars, credit policies, and banking regulations.
 
+The data has been extracted from NPCI website. Below is the link:
+https://www.npci.org.in/what-we-do/upi/circular
+
 It utilizes Retrieval-Augmented Generation (RAG) with FAISS vector search and Google Gemini AI to provide accurate, source-backed answers.
 Demo Video-
 https://drive.google.com/drive/folders/1x5QMUeTHDtCwBKRYOw0h53IVGOIasTmV?usp=sharing
